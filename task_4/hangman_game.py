@@ -1,3 +1,5 @@
+# HANGMAN GAME
+
 import random
 
 def choose_word():
